@@ -19,7 +19,7 @@
 
 <br><br>
 
-🌱 Actualmente enfocado en el desarrollo backend con NestJS, Express.js, TypeORM, PostgreSQL, MongoDB y Node.js.
+🌱 Actualmente enfocado en el desarrollo backend con  Node.js, TypeScript, NestJS, Express.js, TypeORM y PostgreSQL.
 <br>
 🔭 Apasionado por construir APIs RESTful escalables, optimizar el rendimiento de bases de datos y desplegar aplicaciones en la nube para asegurar alta 
 disponibilidad.
