@@ -12,3 +12,32 @@
 
   
 </div>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+🌱 Actualmente enfocado en el desarrollo backend con NestJS, Express.js, TypeORM, PostgreSQL, MongoDB y Node.js.
+<br>
+🔭 Apasionado por construir APIs RESTful escalables, optimizar el rendimiento de bases de datos y desplegar aplicaciones en la nube para asegurar alta 
+disponibilidad.
+<br>
+🛠️ Disfruto de los retos en backend y me esfuerzo por crear soluciones eficientes y experiencias de usuario fluidas.
+<br>
+🚀 Siempre aprendiendo nuevas tecnologías y manteniéndome al día con las mejores prácticas en desarrollo backend.
+<br>
+
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm&logoColor=00B4B6)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+
