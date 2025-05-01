@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Soy++Facundo+%F0%9F%91%8B;Back-End+Developer;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Soy++Facundo+%F0%9F%91%8B;Full Stack+Developer;" alt="Headline" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <br><br>
 
-🌱 Actualmente enfocado en el desarrollo backend con  Node.js, TypeScript, NestJS, Express.js, TypeORM y PostgreSQL.
+🌱 Desarrollador Full Stack enfocado en el desarrollo backend con  Node.js, TypeScript, NestJS, Express.js, TypeORM y PostgreSQL.
 <br>
 🔭 Apasionado por construir APIs RESTful escalables, optimizar el rendimiento de bases de datos y desplegar aplicaciones en la nube para asegurar alta 
 disponibilidad.
